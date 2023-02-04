@@ -1,0 +1,10 @@
+/home/henry/Downloads/CLion-2022.3.1/clion-2022.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_COMPILER=/bin/clang++ -G "CodeBlocks - Unix Makefiles" -S /home/henry/development/games/HES -B /home/henry/development/games/HES/cmake-build-release
+/home/henry/development/games/HES
+FINDING HAGAME2 LIB
+UNIX
+FIND_HAGAME2_PATHS = /home/henry/development/games/HaGameLite
+HAGAME2_INCLUDE_DIR = /home/henry/development/games/HaGameLite/include
+HAGAME2_LIBRARY = /home/henry/development/games/HaGameLite/lib/libHaGame2.a
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/henry/development/games/HES/cmake-build-release
